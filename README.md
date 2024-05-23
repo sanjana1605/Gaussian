@@ -23,7 +23,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: SANJANA SRI N
 RegisterNumber: 2305003007
-```
+
  import numpy as np
  import sys
  n=int(input())
@@ -48,6 +48,7 @@ for i in range(n):
     x[i]=x[i]/a[i][i]
  for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=' ')
+```
     
 
 
