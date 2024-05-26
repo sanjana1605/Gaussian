@@ -1,5 +1,5 @@
 # Gaussian Elimination
-
+Date:06-04-2024
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
@@ -49,14 +49,10 @@ for i in range(n):
  for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=' ')
 ```
-    
-
-
 ## Output:
 ![image](https://github.com/sanjana1605/Gaussian/assets/155608340/499d755b-6695-4b2a-8796-c7a61bd99a09)
 
 ![image](https://github.com/sanjana1605/Gaussian/assets/155608340/ba5ab07c-b9c1-44ab-89d5-bb1c71d00ea2)
-
 
 
 ## Result:
